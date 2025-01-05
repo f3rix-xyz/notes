@@ -1,0 +1,6 @@
+- how what I am presenting can help you and why I am the best person to help you?
+- can we go to the next slide please
+- hand gestures
+- twitter quotes
+- reddit ss 
+- pictures

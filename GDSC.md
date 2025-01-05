@@ -1,0 +1,2 @@
+- community is imp , that's how ideas develop
+- build an app to calculate retire money

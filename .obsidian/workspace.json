@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "49307a56eb46a0e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "599242c1195bd40c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28a6e2cc7290a98f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/book notes 2023-11-29 19.15.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "book notes 2023-11-29 19.15.15.excalidraw"
+            }
+          },
+          {
+            "id": "4eb7941332333980",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbd8334a9e47a7f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5143f2e55ddfcb0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbb808e49b6f582d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d0c1475b01e02f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b22c1e32224dfac6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bcdb1573465692db",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa7960be259fca89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9360449527f38fc8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Images/book notes 2023-11-29 19.15.15.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for book notes 2023-11-29 19.15.15.excalidraw"
+            }
+          },
+          {
+            "id": "022027705d93b3e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Images/book notes 2023-11-29 19.15.15.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from book notes 2023-11-29 19.15.15.excalidraw"
+            }
+          },
+          {
+            "id": "30fdb24c43193681",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c44e1dfe25cada44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Images/book notes 2023-11-29 19.15.15.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of book notes 2023-11-29 19.15.15.excalidraw"
+            }
+          },
+          {
+            "id": "e9eda8a3bd9254d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "fit:Fit Sync": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "4eb7941332333980",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-29 19.15.29.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-29 10.14.03.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-29 10.13.52.excalidraw.md",
+    "computer science/OSTEP.md",
+    "Images/Pasted image 20250104222512.png",
+    "Images/Pasted image 20250104215058.png",
+    "Images/Pasted image 20250104215021.png",
+    "Images/Pasted image 20250104215004.png",
+    "Images/Pasted image 20250104212413.png",
+    "Images/Pasted image 20250104194149.png",
+    "Images/Pasted image 20250104192526.png",
+    "Images/Pasted image 20250104181616.png",
+    "Images/Pasted image 20250104181606.png",
+    "Images/Pasted image 20250104181554.png",
+    "pg essays/Paul Graham Essays.md",
+    "Kunal Shah.md",
+    "Excalidraw/Drawing 2025-01-02 13.39.19.excalidraw.md",
+    "pg essays/How to get startup Ideas.md",
+    "pg essays/Investors.md",
+    "GDSC.md",
+    "Presentation.md",
+    "pg essays/Do things that don't scale.md",
+    "peeple.md",
+    "Untitled",
+    "pg essays",
+    "Book Notes/Thinking Fast and Slow.md",
+    "computer science/Pointers.md",
+    "Book Notes",
+    "film making/cinamatography/book notes.md",
+    "computer science",
+    "farzi",
+    "farzi/Attack mode.md",
+    "farzi/Rough.md",
+    "farzi/Readme.md.md",
+    "farzi/questions.md",
+    "farzi/Learnings.md",
+    "Images/book notes 2023-11-29 19.15.15.excalidraw.md",
+    "farzi/How to sell yourself.md",
+    "Psychology/You are not so smart.md",
+    "Ayush.exe/Untitled.md",
+    "Code/OS/Overview.md",
+    "film making/cinamatography",
+    "Excalidraw",
+    "film making/story",
+    "film making",
+    "Psychology"
+  ]
+}
