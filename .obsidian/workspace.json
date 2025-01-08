@@ -23,14 +23,32 @@
             "id": "4eb7941332333980",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kunal Shah.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kunal Shah"
+            }
+          },
+          {
+            "id": "c95c641d0a779c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sajith pai/Indus Valley Playbook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Indus Valley Playbook"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,8 +202,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4eb7941332333980",
+  "active": "c95c641d0a779c96",
   "lastOpenFiles": [
+    "Images/Pasted image 20250107203249.png",
+    "sajith pai",
+    "Kunal Shah.md",
+    "sajith pai/Indus Valley Playbook.md",
+    "computer science/top down networking.md",
     "Excalidraw/Drawing 2023-11-29 19.15.29.excalidraw.md",
     "Excalidraw/Drawing 2023-11-29 10.14.03.excalidraw.md",
     "Excalidraw/Drawing 2023-11-29 10.13.52.excalidraw.md",
@@ -201,7 +224,6 @@
     "Images/Pasted image 20250104181606.png",
     "Images/Pasted image 20250104181554.png",
     "pg essays/Paul Graham Essays.md",
-    "Kunal Shah.md",
     "Excalidraw/Drawing 2025-01-02 13.39.19.excalidraw.md",
     "pg essays/How to get startup Ideas.md",
     "pg essays/Investors.md",
@@ -209,7 +231,6 @@
     "Presentation.md",
     "pg essays/Do things that don't scale.md",
     "peeple.md",
-    "Untitled",
     "pg essays",
     "Book Notes/Thinking Fast and Slow.md",
     "computer science/Pointers.md",
@@ -224,9 +245,6 @@
     "farzi/Learnings.md",
     "Images/book notes 2023-11-29 19.15.15.excalidraw.md",
     "farzi/How to sell yourself.md",
-    "Psychology/You are not so smart.md",
-    "Ayush.exe/Untitled.md",
-    "Code/OS/Overview.md",
     "film making/cinamatography",
     "Excalidraw",
     "film making/story",
